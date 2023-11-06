@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hello there, I'm Temitope O. Benson 👋
 
-<p> <a href="https://www.linkedin.com/in/temitopebenson/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="[https://twitter.com/home?lang=en](https://twitter.com/officiabenson)" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+<p> <a href="https://www.linkedin.com/in/temitopebenson/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://twitter.com/officiabenson" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 </p>
 
 ### About me :rocket:
