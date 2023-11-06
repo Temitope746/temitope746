@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### About me :rocket:
 
-I am a Mathematician, Computational & Data Scientist. My work revolves around statistical learning, risk management, and customer analytics. I have worked as a data scientist, mathematician, learning and development consultant for more than 8 years in retail, credit risk, consulting, environmental risk, and marketing. 
+I am a Mathematician, Computational & Data Scientist. My work revolves around mathematical and machine learning model, risk management, and customer and marketing analytics. I have worked as a data scientist, mathematician, learning and development consultant for more than 8 years in banking, consulting, marketing, and education. 
 
 I have a strong background in mathematics, machine learning, data science, and statistics with experience in the payment industry, financial industry, Information technology, US goverment national laboratory, and academia. I am currently a data scientist and technology manager at the leading payment industry company in the United States.
 
