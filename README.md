@@ -28,6 +28,6 @@ I have a strong background in mathematics, machine learning, data science, and s
 - 📫 How to reach me: **temitopebenson@yahoo.com**
 
 ## Skills
-* 👨‍💻 Python, SAS, SQL, R
+* 👨‍💻 Python, SQL, MatLab, C++
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Mckay-R.count_visitors)
+
