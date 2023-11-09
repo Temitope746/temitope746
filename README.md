@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 ### About me :rocket:
 
-I am a Mathematician, Computational & Data Scientist. My work revolves around mathematical and machine learning model, risk management, and customer and marketing analytics. I have worked as a data scientist, mathematician, learning and development consultant for more than 8 years in banking, consulting, marketing, and education. 
+I'm a Mathematician, Data Scientist, and Computational Biologist. My work evolves developing mathematical models, machine learning models, risk management, customer and marketing analytics. I have worked as a data scientist, mathematician, learning and development consultant for more than 8 years in the banking, consulting, marketing, and education. 
 
-I have a strong background in mathematics, machine learning, data science, and statistics with experience in the payment industry, financial industry, Information technology, US goverment national laboratory, and academia. I am currently a data scientist and technology manager at the leading payment industry company in the United States.
+I have a strong background in mathematics, machine learning, data science, and statistics with experience in the payment industry, financial industry, Information technology, US goverment national laboratory, and academia. I am currently a data scientist and technology training manager at the leading payment industry company in the United States. I am very open to research collaboration in Artificial Intelligence and mathematical modeling.
 
 - 📫 How to reach me: **temitopebenson@yahoo.com**
 
