@@ -31,6 +31,6 @@ I have a strong background in mathematics, machine learning, data science, spati
 - 📫 How to reach me: **temitopebenson@yahoo.com** or **https://www.linkedin.com/in/temitopebenson/**
 
 ## Skills
-* 👨‍💻 Python, SQL, MatLab, C++, Snowflakes, AWS, AZURE, GIT
+* 👨‍💻 Python, SQL, MatLab, C++, Snowflakes, AWS, Azure, GIT
 
 
